@@ -1,4 +1,5 @@
 
+
 # DPNNet-Bayesian
 We introduce the use of Bayesian Formalism in Neural Network.
 We develop a Bayesian deep-learning network, "DPNNet-Bayesian," 
@@ -12,4 +13,5 @@ The paper is publisehd in Astrophysical Journal (ApJ)
 
 https://iopscience.iop.org/article/10.3847/1538-4357/ac7a3c
 
+![BNN_diagram](https://user-images.githubusercontent.com/46558389/189010912-2a416038-0b5d-4929-8634-c703880c37fd.jpeg)
 ![prediction_with_uncertainty](https://user-images.githubusercontent.com/46558389/189010658-5e1148b5-0a36-484a-90aa-ab9388277ec0.jpeg)
